@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Face Jobs
+
+  Created by Eslam Hassan on 7/12/20.
+  Copyright © 2020 Eslam Hassan. All rights reserved.
+*/
+
+"Lang" = "ar";
+
+"EmailOrPhone" = "بريد الكتروني او هاتف";
+"Password" = "كلمه المرور";
+
+// Alert
+"EmailPhoneRequired" = "البريد الإلكتروني أو الهاتف مطلوب";
+"PasswordRequired" = "كلمة المرور مطلوبة";
+

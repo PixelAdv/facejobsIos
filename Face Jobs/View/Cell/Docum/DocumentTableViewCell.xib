@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="16097" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="MYRIADPRO-REGULAR.OTF">
+            <string>MyriadPro-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="DocumentCell" rowHeight="54" id="KGk-i7-Jjw" customClass="DocumentTableViewCell" customModule="Face_Jobs" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="383" height="54"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="383" height="54"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Ew0-Os-OZr">
+                        <rect key="frame" x="10" y="10" width="363" height="34"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Asf-jG-xEH">
+                                <rect key="frame" x="0.0" y="0.0" width="363" height="34"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="t3F-Hy-Rzn">
+                                        <rect key="frame" x="0.0" y="0.0" width="290.5" height="34"/>
+                                        <fontDescription key="fontDescription" name="MyriadPro-Regular" family="Myriad Pro" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7Bv-9p-3NO">
+                                        <rect key="frame" x="290.5" y="0.0" width="72.5" height="34"/>
+                                        <fontDescription key="fontDescription" name="MyriadPro-Regular" family="Myriad Pro" pointSize="17"/>
+                                        <state key="normal" title="Remove">
+                                            <color key="titleColor" red="0.84705882349999995" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                        </state>
+                                    </button>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstItem="7Bv-9p-3NO" firstAttribute="width" secondItem="Asf-jG-xEH" secondAttribute="width" multiplier="0.2" id="fbo-bq-I7P"/>
+                                </constraints>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstItem="Asf-jG-xEH" firstAttribute="centerY" secondItem="Ew0-Os-OZr" secondAttribute="centerY" id="QEF-aX-bvn"/>
+                            <constraint firstItem="Asf-jG-xEH" firstAttribute="height" secondItem="Ew0-Os-OZr" secondAttribute="height" id="k6c-er-FXh"/>
+                            <constraint firstItem="Asf-jG-xEH" firstAttribute="centerX" secondItem="Ew0-Os-OZr" secondAttribute="centerX" id="pHq-AQ-qYJ"/>
+                            <constraint firstItem="Asf-jG-xEH" firstAttribute="width" secondItem="Ew0-Os-OZr" secondAttribute="width" id="wXo-cp-zau"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="Ew0-Os-OZr" secondAttribute="bottom" constant="10" id="GAb-it-j2s"/>
+                    <constraint firstAttribute="trailing" secondItem="Ew0-Os-OZr" secondAttribute="trailing" constant="10" id="RKq-AH-CJv"/>
+                    <constraint firstItem="Ew0-Os-OZr" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="10" id="gIl-Sg-IEH"/>
+                    <constraint firstItem="Ew0-Os-OZr" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="10" id="smy-j7-NSz"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="Documlb" destination="t3F-Hy-Rzn" id="MGW-Wp-6B6"/>
+                <outlet property="RemoveBtn" destination="7Bv-9p-3NO" id="cqv-g5-pwD"/>
+            </connections>
+            <point key="canvasLocation" x="177.536231884058" y="89.732142857142847"/>
+        </tableViewCell>
+    </objects>
+</document>

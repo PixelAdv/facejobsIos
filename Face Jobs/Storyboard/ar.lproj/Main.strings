@@ -1,0 +1,360 @@
+
+// login
+"CGE-oO-aqQ.text" = "املأ المعلومات أدناه لتسجيل الدخول";
+"rnL-ny-2gj.text" = "تسجيل الدخول";
+"3eK-Em-EvH.normalTitle" = "هل نسيت كلمة المرور ؟";
+"0SB-B3-AMf.normalTitle" = "الوظائف الحالية";
+"ja3-Fw-m88.normalTitle" = "تسجيل الدخول";
+"cMU-2c-oA2.normalTitle" = "إنشاء حساب";
+"Cfa-qW-Lk4.normalTitle" = "تسجيل الدخول كزائر";
+
+// Register
+"2cJ-hV-flo.normalTitle" = "تسجيل";
+"kDd-zi-F4x.normalTitle" = "تسجيل الدخول كزائر";
+"CwJ-iE-1XX.normalTitle" = "هل لديك حساب؟ تسجيل الدخول الآن";
+
+
+
+
+
+
+
+
+
+
+
+
+
+"3hs-zI-Zgq.text" = "Description";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "3nD-Ib-Hr5"; */
+"3nD-Ib-Hr5.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "Company name : "; ObjectID = "5Cn-gW-7Jy"; */
+"5Cn-gW-7Jy.text" = "Company name : ";
+
+/* Class = "UIButton"; normalTitle = "Jobs"; ObjectID = "5GR-6T-01Y"; */
+"5GR-6T-01Y.normalTitle" = "Jobs";
+
+/* Class = "UIButton"; normalTitle = "Types"; ObjectID = "5Xb-l2-TKz"; */
+"5Xb-l2-TKz.normalTitle" = "Types";
+
+/* Class = "UIButton"; normalTitle = "Invite friends"; ObjectID = "6b7-ry-bOI"; */
+"6b7-ry-bOI.normalTitle" = "Invite friends";
+
+/* Class = "UIButton"; normalTitle = "offers"; ObjectID = "7BG-uN-b3O"; */
+"7BG-uN-b3O.normalTitle" = "offers";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "9Uw-Jb-mYw"; */
+"9Uw-Jb-mYw.text" = "To";
+
+/* Class = "UITextField"; placeholder = "From"; ObjectID = "ABa-aR-kMO"; */
+"ABa-aR-kMO.placeholder" = "From";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Af2-bh-DG8"; */
+"Af2-bh-DG8.title" = "Item";
+
+/* Class = "UILabel"; text = "From"; ObjectID = "BCC-DS-tL9"; */
+"BCC-DS-tL9.text" = "From";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "Bey-W1-dNY"; */
+"Bey-W1-dNY.text" = "Forgot Password";
+
+
+
+
+
+
+
+/* Class = "UITextField"; placeholder = "To"; ObjectID = "Cxs-YY-pJU"; */
+"Cxs-YY-pJU.placeholder" = "To";
+
+/* Class = "UITextField"; placeholder = "Last name"; ObjectID = "FAC-a0-9Dq"; */
+"FAC-a0-9Dq.placeholder" = "Last name";
+
+/* Class = "UIButton"; normalTitle = "Payment methods"; ObjectID = "Fe6-5W-5YT"; */
+"Fe6-5W-5YT.normalTitle" = "Payment methods";
+
+/* Class = "UITextField"; placeholder = "Your link here"; ObjectID = "G5r-bm-2fq"; */
+"G5r-bm-2fq.placeholder" = "Your link here";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "GBg-hs-LWT"; */
+"GBg-hs-LWT.normalTitle" = "Save";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "Gwx-TJ-1rq"; */
+"Gwx-TJ-1rq.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "Previous work"; ObjectID = "HcP-sh-1v7"; */
+"HcP-sh-1v7.text" = "Previous work";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "HzI-tZ-bLB"; */
+"HzI-tZ-bLB.text" = "English";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "IHO-Qm-jKp"; */
+"IHO-Qm-jKp.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "Address"; ObjectID = "Ip3-UV-d3J"; */
+"Ip3-UV-d3J.normalTitle" = "Address";
+
+/* Class = "UILabel"; text = "Jobs : "; ObjectID = "Je4-pC-nrD"; */
+"Je4-pC-nrD.text" = "Jobs : ";
+
+/* Class = "UILabel"; text = "Job Detail"; ObjectID = "KGr-8B-uxt"; */
+"KGr-8B-uxt.text" = "Job Detail";
+
+/* Class = "UINavigationItem"; title = " Social"; ObjectID = "Kfh-pY-zRA"; */
+"Kfh-pY-zRA.title" = " Social";
+
+/* Class = "UITextField"; placeholder = "Add Attatched file name"; ObjectID = "KxZ-JR-BRD"; */
+"KxZ-JR-BRD.placeholder" = "Add Attatched file name";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "L1H-Wn-pXg"; */
+"L1H-Wn-pXg.normalTitle" = "Logout";
+
+/* Class = "UIButton"; normalTitle = "Social"; ObjectID = "Ljo-BR-PQ3"; */
+"Ljo-BR-PQ3.normalTitle" = "Social";
+
+/* Class = "UILabel"; text = "Job Information"; ObjectID = "MN9-Au-QR9"; */
+"MN9-Au-QR9.text" = "Job Information";
+
+/* Class = "UILabel"; text = "Add Photo"; ObjectID = "MyH-xz-5hB"; */
+"MyH-xz-5hB.text" = "Add Photo";
+
+/* Class = "UITextField"; placeholder = "Company name"; ObjectID = "MzJ-Xs-SUZ"; */
+"MzJ-Xs-SUZ.placeholder" = "Company name";
+
+/* Class = "UILabel"; text = "Website"; ObjectID = "NSk-Vk-7mB"; */
+"NSk-Vk-7mB.text" = "Website";
+
+/* Class = "UILabel"; text = "E-mail : "; ObjectID = "Naa-oA-RAk"; */
+"Naa-oA-RAk.text" = "E-mail : ";
+
+/* Class = "UILabel"; text = "Data Input "; ObjectID = "PZq-5f-dxv"; */
+"PZq-5f-dxv.text" = "Data Input ";
+
+/* Class = "UIButton"; normalTitle = "Previous jobs"; ObjectID = "Q2b-xS-APG"; */
+"Q2b-xS-APG.normalTitle" = "Previous jobs";
+
+/* Class = "UITextField"; placeholder = "Title"; ObjectID = "QUH-75-VER"; */
+"QUH-75-VER.placeholder" = "Title";
+
+/* Class = "UILabel"; text = "Facebook"; ObjectID = "Si0-xq-j8D"; */
+"Si0-xq-j8D.text" = "Facebook";
+
+/* Class = "UIButton"; normalTitle = "Add jobs"; ObjectID = "Ukh-gT-4Az"; */
+"Ukh-gT-4Az.normalTitle" = "Add jobs";
+
+/* Class = "UITextField"; placeholder = "Middle name"; ObjectID = "Ur0-3Z-cF2"; */
+"Ur0-3Z-cF2.placeholder" = "Middle name";
+
+/* Class = "UIButton"; normalTitle = "Documents"; ObjectID = "Vje-Kb-1uw"; */
+"Vje-Kb-1uw.normalTitle" = "Documents";
+
+/* Class = "UITextField"; placeholder = "Email or Phone"; ObjectID = "WFo-Yj-qS9"; */
+"WFo-Yj-qS9.placeholder" = "Email or Phone";
+
+/* Class = "UINavigationItem"; title = "Address"; ObjectID = "XgO-YV-0HP"; */
+"XgO-YV-0HP.title" = "Address";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "XqW-tJ-Kff"; */
+"XqW-tJ-Kff.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "About"; ObjectID = "Y3T-Xy-aeH"; */
+"Y3T-Xy-aeH.normalTitle" = "About";
+
+/* Class = "UILabel"; text = "Data Input "; ObjectID = "bKh-f7-eIj"; */
+"bKh-f7-eIj.text" = "Data Input ";
+
+/* Class = "UITextField"; placeholder = "Old password"; ObjectID = "bO9-Xe-ldT"; */
+"bO9-Xe-ldT.placeholder" = "Old password";
+
+/* Class = "UINavigationItem"; title = "Setting"; ObjectID = "bdi-63-TKW"; */
+"bdi-63-TKW.title" = "Setting";
+
+/* Class = "UILabel"; text = "Arabic"; ObjectID = "bf6-0p-z56"; */
+"bf6-0p-z56.text" = "Arabic";
+
+
+
+/* Class = "UITextField"; placeholder = "Confirm password"; ObjectID = "cXT-QW-9sg"; */
+"cXT-QW-9sg.placeholder" = "Confirm password";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "cdU-zM-las"; */
+"cdU-zM-las.text" = "Profile";
+
+/* Class = "UIButton"; normalTitle = "Previous work"; ObjectID = "cvS-u6-KZD"; */
+"cvS-u6-KZD.normalTitle" = "Previous work";
+
+/* Class = "UILabel"; text = "Data Input "; ObjectID = "d75-nQ-fzY"; */
+"d75-nQ-fzY.text" = "Data Input ";
+
+/* Class = "UILabel"; text = "Job Information"; ObjectID = "dFe-rL-T0l"; */
+"dFe-rL-T0l.text" = "Job Information";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "dKR-et-zex"; */
+"dKR-et-zex.title" = "Item";
+
+/* Class = "UITextField"; placeholder = "E-mail "; ObjectID = "dlL-mU-cXu"; */
+"dlL-mU-cXu.placeholder" = "E-mail ";
+
+/* Class = "UIButton"; normalTitle = "Basic info"; ObjectID = "dmR-ks-lna"; */
+"dmR-ks-lna.normalTitle" = "Basic info";
+
+/* Class = "UIButton"; normalTitle = "Category"; ObjectID = "dnb-2H-bbt"; */
+"dnb-2H-bbt.normalTitle" = "Category";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "duE-ov-hYb"; */
+"duE-ov-hYb.placeholder" = "Password";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "eEe-Sn-Xo9"; */
+"eEe-Sn-Xo9.title" = "Item";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "eKt-iT-OsD"; */
+"eKt-iT-OsD.text" = "Profile";
+
+/* Class = "UILabel"; text = "Instgram"; ObjectID = "eYt-Eb-aNR"; */
+"eYt-Eb-aNR.text" = "Instgram";
+
+/* Class = "UIButton"; normalTitle = "Company Photos"; ObjectID = "eyX-x2-rNx"; */
+"eyX-x2-rNx.normalTitle" = "Company Photos";
+
+/* Class = "UIButton"; normalTitle = "Add time frame"; ObjectID = "fYM-cz-tXL"; */
+"fYM-cz-tXL.normalTitle" = "Add time frame";
+
+/* Class = "UITextField"; placeholder = "Your link here"; ObjectID = "gU3-V0-oHB"; */
+"gU3-V0-oHB.placeholder" = "Your link here";
+
+/* Class = "UIButton"; normalTitle = "Emergency notice\n"; ObjectID = "gXS-Jc-Fes"; */
+"gXS-Jc-Fes.normalTitle" = "Emergency notice\n";
+
+/* Class = "UILabel"; text = "Gallery"; ObjectID = "gg2-MR-Ifo"; */
+"gg2-MR-Ifo.text" = "Gallery";
+
+/* Class = "UINavigationItem"; title = "Add New Job"; ObjectID = "ghp-G8-RtA"; */
+"ghp-G8-RtA.title" = "Add New Job";
+
+/* Class = "UILabel"; text = "Linkedin"; ObjectID = "hB3-nr-cg6"; */
+"hB3-nr-cg6.text" = "Linkedin";
+
+/* Class = "UITextField"; placeholder = "Your link here"; ObjectID = "hiT-Vu-C0t"; */
+"hiT-Vu-C0t.placeholder" = "Your link here";
+
+/* Class = "UILabel"; text = "We just need your registered e-mail\nto send your password reset instruction "; ObjectID = "jGP-Xk-a2q"; */
+"jGP-Xk-a2q.text" = "We just need your registered e-mail\nto send your password reset instruction ";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "ja3-Fw-m88"; */
+
+/* Class = "UIButton"; normalTitle = "Reset Password"; ObjectID = "k0f-AP-Ouu"; */
+"k0f-AP-Ouu.normalTitle" = "Reset Password";
+
+
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "kIN-ZT-mB7"; */
+"kIN-ZT-mB7.normalTitle" = "Logout";
+
+/* Class = "UIButton"; normalTitle = "Change password"; ObjectID = "lKH-Tc-ygN"; */
+"lKH-Tc-ygN.normalTitle" = "Change password";
+
+/* Class = "UIButton"; normalTitle = "Profile"; ObjectID = "lOW-cU-mUf"; */
+"lOW-cU-mUf.normalTitle" = "Profile";
+
+/* Class = "UITextField"; placeholder = "Phone"; ObjectID = "ndV-6O-PV7"; */
+"ndV-6O-PV7.placeholder" = "Phone";
+
+/* Class = "UINavigationItem"; title = "Add New Job"; ObjectID = "nmS-t1-xGW"; */
+"nmS-t1-xGW.title" = "Add New Job";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "onx-dz-qVO"; */
+"onx-dz-qVO.normalTitle" = "Save";
+
+/* Class = "UIButton"; normalTitle = "Visibility"; ObjectID = "p0C-0e-dlL"; */
+"p0C-0e-dlL.normalTitle" = "Visibility";
+
+/* Class = "UITextField"; placeholder = "Your link here"; ObjectID = "p74-mV-7vn"; */
+"p74-mV-7vn.placeholder" = "Your link here";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "q5e-NI-OHa"; */
+"q5e-NI-OHa.title" = "Item";
+
+/* Class = "UITextField"; placeholder = "Confirm password"; ObjectID = "qVD-VT-aIb"; */
+"qVD-VT-aIb.placeholder" = "Confirm password";
+
+/* Class = "UILabel"; text = "Job Detail"; ObjectID = "qkV-FC-CSN"; */
+"qkV-FC-CSN.text" = "Job Detail";
+
+/* Class = "UILabel"; text = "Job Time"; ObjectID = "qo1-J8-dXQ"; */
+"qo1-J8-dXQ.text" = "Job Time";
+
+/* Class = "UILabel"; text = "Rate : "; ObjectID = "r43-Oo-DtE"; */
+"r43-Oo-DtE.text" = "Rate : ";
+
+/* Class = "UITextField"; placeholder = "E-mail "; ObjectID = "r6B-U7-gjg"; */
+"r6B-U7-gjg.placeholder" = "E-mail ";
+
+/* Class = "UITextField"; placeholder = "Your link here"; ObjectID = "rMI-2E-vCd"; */
+"rMI-2E-vCd.placeholder" = "Your link here";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "rVB-7i-lOF"; */
+"rVB-7i-lOF.normalTitle" = "Next";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "rah-jy-t5o"; */
+"rah-jy-t5o.placeholder" = "Password";
+
+
+
+/* Class = "UITextField"; placeholder = "First name"; ObjectID = "sRt-R5-jYS"; */
+"sRt-R5-jYS.placeholder" = "First name";
+
+/* Class = "UILabel"; text = "Company Info"; ObjectID = "seh-rC-0JS"; */
+"seh-rC-0JS.text" = "Company Info";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "st8-7S-XHH"; */
+"st8-7S-XHH.title" = "Item";
+
+/* Class = "UITextField"; text = "Tue, Jul 7,2020"; ObjectID = "sur-XB-UT7"; */
+"sur-XB-UT7.text" = "Tue, Jul 7,2020";
+
+/* Class = "UIButton"; normalTitle = "Setting"; ObjectID = "tcI-j8-Ner"; */
+"tcI-j8-Ner.normalTitle" = "Setting";
+
+/* Class = "UILabel"; text = "Twitter"; ObjectID = "tfB-QL-QA3"; */
+"tfB-QL-QA3.text" = "Twitter";
+
+/* Class = "UIButton"; normalTitle = "Change language"; ObjectID = "tl7-rm-NPf"; */
+"tl7-rm-NPf.normalTitle" = "Change language";
+
+/* Class = "UIButton"; normalTitle = "Jobs applications"; ObjectID = "uS5-ii-bVo"; */
+"uS5-ii-bVo.normalTitle" = "Jobs applications";
+
+/* Class = "UINavigationItem"; title = "Documents"; ObjectID = "uWf-Wo-Fik"; */
+"uWf-Wo-Fik.title" = "Documents";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "ujK-7R-3HN"; */
+"ujK-7R-3HN.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Gallery"; ObjectID = "v6K-Xf-0vg"; */
+"v6K-Xf-0vg.normalTitle" = "Gallery";
+
+/* Class = "UILabel"; text = "Other"; ObjectID = "vYd-Es-cLC"; */
+"vYd-Es-cLC.text" = "Other";
+
+/* Class = "UITextField"; placeholder = "Your link here"; ObjectID = "vuc-eh-b5k"; */
+"vuc-eh-b5k.placeholder" = "Your link here";
+
+/* Class = "UILabel"; text = "Landline : "; ObjectID = "wcu-h3-pBl"; */
+"wcu-h3-pBl.text" = "Landline : ";
+
+/* Class = "UINavigationItem"; title = "Gallery"; ObjectID = "wqm-ep-8mH"; */
+"wqm-ep-8mH.title" = "Gallery";
+
+/* Class = "UITextField"; placeholder = "Date of birth"; ObjectID = "yZm-Bm-7e5"; */
+"yZm-Bm-7e5.placeholder" = "Date of birth";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "yhL-AI-To0"; */
+"yhL-AI-To0.title" = "Item";
+
+/* Class = "UILabel"; text = "Phone : "; ObjectID = "zmP-Mu-qIM"; */
+"zmP-Mu-qIM.text" = "Phone : ";
+
+/* Class = "UITextField"; placeholder = "New password"; ObjectID = "zpk-bT-Sqy"; */
+"zpk-bT-Sqy.placeholder" = "New password";

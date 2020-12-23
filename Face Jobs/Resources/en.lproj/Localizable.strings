@@ -1,0 +1,115 @@
+/* 
+  Localizable.strings
+  Face Jobs
+
+  Created by Eslam Hassan on 7/12/20.
+  Copyright © 2020 Eslam Hassan. All rights reserved.
+*/
+
+"Lang" = "en";
+
+// Error Code
+"LoginRequired" = "Login data is required";
+"Somewrong" = "Some thing went wrong";
+"Providerrequired" = "Provider Field is required";
+"PasswordIsRequired" = "Password field is required";
+"PasswordFieldMustBeChars" = "Password Field Must Be String With Minimum Length Of 6 Chars";
+"InvalidEmail" = "Invalid email";
+"InvalidPhoneNumber" = "Invalid phone number";
+"UserNotFound" = "User not found";
+"InvalidRefreshToken" = "Invalid refresh token";
+"TokenProblemOccured" = "Token problem occured";
+"RegisterDataIsRequired" = "Register data is required";
+"FirstNameFieldIsRequired" = "first name field is required";
+"LastNameFieldIsRequired" = "Last name field is required";
+"EmailFieldIsRequired" = "Email field is required";
+"PhoneFieldIsRequired" = "Phone field is required";
+"InvalidUserType" = "Invalid user type";
+"CompanyNameFieldIsRequired" = "Company name field is required";
+"PasswordDoNotMatch" = "Password and confirmation password don't match";
+"DateOfBirthFieldIsRequired" = "Date of birth field is required";
+"FailedToCreateTheAccount" = "Failed to create the account";
+"FailedToCreateRolesForTheAccount" = "Failed to create roles for the account";
+"PushTokenFieldIsRequired" = "Push token field is required";
+"OperatingSystemIsInvalid" = "Operating system is invalid";
+"EmailAlreadyExists" = "Email already exists";
+"PhoneAlreadyExists" = "Phone already exists";
+"ChangePasswordDataIsRequired" = "Change password data is required";
+"OldPasswordFieldIsRequired" = "Old password field is required";
+"NewPasswordFieldIsRequired" = "New password field is required";
+"FailedToChangePassword" = "Failed to change password";
+"WrongPasswordProvided" = "Wrong password provided";
+"UserNotAuthorized" = "User not authorized";
+"TheAccountIsBlocked" = "The account is blocked";
+"ClientNotFound" = "Client not found";
+"ImageIsRequired" = "Image is required";
+"FailedToUploadTheImage" = "Failed to upload the image";
+"LandlineFieldIsRequired" = "Landline field is required";
+"LandlineAlreadyExists" = "Landline already exists";
+"InvalidFacebookUrl" = "Invalid facebook url";
+"InvalidTwitterUrl" = "Invalid twitter url";
+"InvalidInstagramUrl" = "Invalid instagram url";
+"InvalidLinkedInUrl" = "Invalid linkedIn url";
+"InvalidWebsiteUrl" = "Invalid website url";
+"InvalidOtherUrl" = "Invalid other url";
+"NullObjectProvided" = "Null object provided";
+"InvalidGalleryType" = "Invalid gallery type";
+"ImageNotFound" = "Image not found";
+"FileIsRequired" = "File is required";
+"FileNameIsRequired" = "File name is required";
+"InvalidMediaType" = "Invalid media type";
+"FailedToUploadTheFile" = "Failed to upload the file";
+"UserDoesNotHaveEnoughCoins" = "User does not have enough coins";
+"ForgetPasswordDataIsRequired" = "Forget password data is required";
+"EmailNotFound" = "Email not found";
+"FailedToSendTheEmail" = "Failed to send the email";
+"AddJobDataIsMissing" = "Add job data is missing";
+"JobTitleFieldIsRequired" = "Job title field is required";
+"JobDescriptionFieldIsRequired" = "Job description field is required";
+"JobIsMultiDaysFieldIsRequired" = "Job is multi days field is required";
+"JobDateTimesFieldIsRequired" = "Job date times field is required";
+"JobIsBreakAvailableFieldIsRequired" = "Job is break available field is required";
+"JobIsBreakPaidFieldIsRequired" = "Job is break paid field is required";
+"JobNumberOfEmployeesFieldIsRequired" = "Job number of employees field is required";
+"JobCategoryIdFieldIsRequired" = "Job category id field is required";
+"InvalidJobType" = "Invalid job type";
+"JobCategoryIsNotFound" = "Job category is not found";
+"JobDateTimesDayFieldIsRequired" = "Job date times day field is required";
+"JobDateTimesFieldIsInvalid" = "Job date times field is invalid";
+"JobDateTimesFromFieldIsInvalid" = "Job date times from field is invalid";
+"JobDateTimesToFieldIsInvalid" = "Job date times to field is invalid";
+"UserReachedToTheMaximumNumberOfJobsThat HeCanAdd" = "User reached to the maximum number of jobs that he can add";
+"UserDoesNotHaveJobPackages" = "User doesn't have job packages";
+"JobNumberOfEmployeesIsMoreThanCurrentJobPa ckageNumber" = "Job number of employees is more than current job package number";
+"JobCategoryPaymentMethodIsInvalid" = "Job category payment method is invalid";
+"JobCategoryCreditTypeRequirePriceNotToBeNull" = "Job category credit type require price not to be null";
+"UserDoesNotHaveEnoughWallet" = "User doesn't have enough wallet";
+"InvalidJobTimeType" = "Invalid job time type";
+"JobTimesAreaRequired" = "Job times area required";
+"JobTimeToFieldMustBeEqualToOrGreaterThankFr omField" = "Job time to field must be equal to or greater thank from field";
+"AreaNotFound" = "Area not found";
+"CityNotFound" = "City not found";
+"CountryNotFound" = "Country not found";
+"JobAddressFieldIsRequired" = "Job address field is required";
+"ClientDocumentNotFound" = "Client document not found";
+"JopNotFound" = "Jop not found";
+"Done" = "Done";
+
+
+
+
+
+
+
+
+
+
+
+
+"EmailOrPhone" = "Email or phone";
+"Password" = "Password";
+
+// Alert
+"EmailPhoneRequired" = "Email or phone required";
+"PasswordRequired" = "Password required";
+
