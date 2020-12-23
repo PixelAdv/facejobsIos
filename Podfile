@@ -6,6 +6,13 @@ target 'Face Jobs' do
   use_frameworks!
 
   # Pods for Face Jobs
+  pod 'Alamofire', '~> 5.0.0-beta.6'
+  pod 'SideMenu'
+  pod 'MOLH'
+  pod 'Kingfisher'
+  pod 'iOSDropDown'
 
-    
+  pod 'GooglePlaces'
+  pod 'GoogleMaps'
+
 end

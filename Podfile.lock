@@ -1,3 +1,47 @@
-PODFILE CHECKSUM: 92d2ce3e4ce4a0ec64f24e0b632fc44429acfed8
+PODS:
+  - Alamofire (5.0.5)
+  - GoogleMaps (4.1.0):
+    - GoogleMaps/Maps (= 4.1.0)
+  - GoogleMaps/Base (4.1.0)
+  - GoogleMaps/Maps (4.1.0):
+    - GoogleMaps/Base
+  - GooglePlaces (4.1.0):
+    - GoogleMaps/Base (= 4.1.0)
+  - iOSDropDown (0.3.4)
+  - Kingfisher (5.15.8):
+    - Kingfisher/Core (= 5.15.8)
+  - Kingfisher/Core (5.15.8)
+  - MOLH (1.4.3)
+  - SideMenu (6.5.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-beta.6)
+  - GoogleMaps
+  - GooglePlaces
+  - iOSDropDown
+  - Kingfisher
+  - MOLH
+  - SideMenu
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - GoogleMaps
+    - GooglePlaces
+    - iOSDropDown
+    - Kingfisher
+    - MOLH
+    - SideMenu
+
+SPEC CHECKSUMS:
+  Alamofire: df2f8f826963b08b9a870791ad48e07a10090b2e
+  GoogleMaps: 008e2c80e38605b56b560e8deb73d4194ff30bef
+  GooglePlaces: a058b776259c13e1323c9ff135549cb1b13ad8e7
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+  Kingfisher: a3c03d702433fa6cfedabb2bddbe076fb8f2e902
+  MOLH: e45827d200aeb1310641090fd8cd03ad2b42ae72
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+
+PODFILE CHECKSUM: e7df233894c9c8bfb5894de76492f39308194f8e
 
 COCOAPODS: 1.10.0
