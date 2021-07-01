@@ -1,0 +1,552 @@
+
+/* Class = "UIButton"; normalTitle = "Current jobs"; ObjectID = "0SB-B3-AMf"; */
+"0SB-B3-AMf.normalTitle" = "Current jobs";
+
+/* Class = "UINavigationItem"; title = "Add New Job"; ObjectID = "1kR-R2-lNR"; */
+"1kR-R2-lNR.title" = "Add New Job";
+
+/* Class = "UILabel"; text = "Address :"; ObjectID = "2It-Ho-VpU"; */
+"2It-Ho-VpU.text" = "Address :";
+
+/* Class = "UIButton"; normalTitle = "Register "; ObjectID = "2cJ-hV-flo"; */
+"2cJ-hV-flo.normalTitle" = "Register ";
+
+/* Class = "UILabel"; text = "E-mail :"; ObjectID = "2h5-L9-WbS"; */
+"2h5-L9-WbS.text" = "E-mail :";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "2o1-Ew-0zr"; */
+"2o1-Ew-0zr.normalTitle" = "Apply";
+
+/* Class = "UIButton"; normalTitle = "Available"; ObjectID = "2q2-xF-J6e"; */
+"2q2-xF-J6e.normalTitle" = "Available";
+
+/* Class = "UILabel"; text = "Data Input "; ObjectID = "37f-Xv-aOA"; */
+"37f-Xv-aOA.text" = "Data Input ";
+
+/* Class = "UILabel"; text = "If the work is canceled 48 hours before, 20% will be deducted."; ObjectID = "3Lu-Kc-5gb"; */
+"3Lu-Kc-5gb.text" = "If the work is canceled 48 hours before, 20% will be deducted.";
+
+/* Class = "UIButton"; normalTitle = "Payment method"; ObjectID = "3SB-P5-Pa6"; */
+"3SB-P5-Pa6.normalTitle" = "Payment method";
+
+/* Class = "UIButton"; normalTitle = "Forgot password ?"; ObjectID = "3eK-Em-EvH"; */
+"3eK-Em-EvH.normalTitle" = "Forgot password ?";
+
+/* Class = "UITextView"; text = "Description"; ObjectID = "3hs-zI-Zgq"; */
+"3hs-zI-Zgq.text" = "Description";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "3nD-Ib-Hr5"; */
+"3nD-Ib-Hr5.normalTitle" = "Send";
+
+/* Class = "UIButton"; normalTitle = "Hold job "; ObjectID = "3vy-6X-EsG"; */
+"3vy-6X-EsG.normalTitle" = "Hold job ";
+
+/* Class = "UILabel"; text = "Company name : "; ObjectID = "5Cn-gW-7Jy"; */
+"5Cn-gW-7Jy.text" = "Company name : ";
+
+/* Class = "UIButton"; normalTitle = "City"; ObjectID = "5Eg-2u-ixd"; */
+"5Eg-2u-ixd.normalTitle" = "City";
+
+/* Class = "UIButton"; normalTitle = "Jobs"; ObjectID = "5GR-6T-01Y"; */
+"5GR-6T-01Y.normalTitle" = "Jobs";
+
+/* Class = "UIButton"; normalTitle = "Types"; ObjectID = "5Xb-l2-TKz"; */
+"5Xb-l2-TKz.normalTitle" = "Types";
+
+/* Class = "UIButton"; normalTitle = "Invite friends"; ObjectID = "6b7-ry-bOI"; */
+"6b7-ry-bOI.normalTitle" = "Invite friends";
+
+/* Class = "UITextField"; placeholder = "0"; ObjectID = "6uc-hb-prC"; */
+"6uc-hb-prC.placeholder" = "0";
+
+/* Class = "UIButton"; normalTitle = "Pending Job"; ObjectID = "7BG-uN-b3O"; */
+"7BG-uN-b3O.normalTitle" = "Pending Job";
+
+/* Class = "UIButton"; normalTitle = "Add new address"; ObjectID = "7yV-JJ-5ya"; */
+"7yV-JJ-5ya.normalTitle" = "Add new address";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "9Uw-Jb-mYw"; */
+"9Uw-Jb-mYw.text" = "To";
+
+/* Class = "UITextField"; placeholder = "From"; ObjectID = "ABa-aR-kMO"; */
+"ABa-aR-kMO.placeholder" = "From";
+
+/* Class = "UILabel"; text = "Payment method"; ObjectID = "ATh-oZ-dx8"; */
+"ATh-oZ-dx8.text" = "Payment method";
+
+/* Class = "UILabel"; text = "Job Information"; ObjectID = "AbE-ck-iHb"; */
+"AbE-ck-iHb.text" = "Job Information";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Af2-bh-DG8"; */
+"Af2-bh-DG8.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "Job price"; ObjectID = "AtI-fM-V9l"; */
+"AtI-fM-V9l.normalTitle" = "Job price";
+
+/* Class = "UILabel"; text = "From"; ObjectID = "BCC-DS-tL9"; */
+"BCC-DS-tL9.text" = "From";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "Bey-W1-dNY"; */
+"Bey-W1-dNY.text" = "Forgot Password";
+
+/* Class = "UILabel"; text = "Fill The Below information to login"; ObjectID = "CGE-oO-aqQ"; */
+"CGE-oO-aqQ.text" = "Fill The Below information to login";
+
+/* Class = "UILabel"; text = "Street / No."; ObjectID = "CPq-er-o1d"; */
+"CPq-er-o1d.text" = "Street / No.";
+
+/* Class = "UIButton"; normalTitle = "Join as client"; ObjectID = "Cfa-qW-Lk4"; */
+"Cfa-qW-Lk4.normalTitle" = "Join as client";
+
+/* Class = "UIButton"; normalTitle = "Have account?  Login now"; ObjectID = "CwJ-iE-1XX"; */
+"CwJ-iE-1XX.normalTitle" = "Have account?  Login now";
+
+/* Class = "UITextField"; placeholder = "To"; ObjectID = "Cxs-YY-pJU"; */
+"Cxs-YY-pJU.placeholder" = "To";
+
+/* Class = "UINavigationItem"; title = "Chat"; ObjectID = "DQi-Xy-Shq"; */
+"DQi-Xy-Shq.title" = "Chat";
+
+/* Class = "UILabel"; text = "location"; ObjectID = "Dct-XK-hT7"; */
+"Dct-XK-hT7.text" = "location";
+
+/* Class = "UITextField"; placeholder = "Last name"; ObjectID = "FAC-a0-9Dq"; */
+"FAC-a0-9Dq.placeholder" = "Last name";
+
+/* Class = "UINavigationItem"; title = "Previous Job"; ObjectID = "FFF-pa-zep"; */
+"FFF-pa-zep.title" = "Previous Job";
+
+/* Class = "UIButton"; normalTitle = "Area"; ObjectID = "FOI-cS-8TM"; */
+"FOI-cS-8TM.normalTitle" = "Area";
+
+/* Class = "UIButton"; normalTitle = "Payment methods"; ObjectID = "Fe6-5W-5YT"; */
+"Fe6-5W-5YT.normalTitle" = "Payment methods";
+
+/* Class = "UITextField"; placeholder = "Your link here"; ObjectID = "G5r-bm-2fq"; */
+"G5r-bm-2fq.placeholder" = "Your link here";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "GBg-hs-LWT"; */
+"GBg-hs-LWT.normalTitle" = "Save";
+
+/* Class = "UIButton"; normalTitle = "Add location"; ObjectID = "GWV-6M-0jL"; */
+"GWV-6M-0jL.normalTitle" = "Add location";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "Gwx-TJ-1rq"; */
+"Gwx-TJ-1rq.normalTitle" = "Save";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "HB0-0b-hQ7"; */
+"HB0-0b-hQ7.title" = "Item";
+
+/* Class = "UILabel"; text = "Previous work"; ObjectID = "HcP-sh-1v7"; */
+"HcP-sh-1v7.text" = "Previous work";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "HzI-tZ-bLB"; */
+"HzI-tZ-bLB.text" = "English";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "IHO-Qm-jKp"; */
+"IHO-Qm-jKp.title" = "Item";
+
+/* Class = "UILabel"; text = "Village"; ObjectID = "Ifj-Ra-nXw"; */
+"Ifj-Ra-nXw.text" = "Village";
+
+/* Class = "UIButton"; normalTitle = "Address"; ObjectID = "Ip3-UV-d3J"; */
+"Ip3-UV-d3J.normalTitle" = "Address";
+
+/* Class = "UINavigationItem"; title = "Pending Job"; ObjectID = "Ixv-1e-Ert"; */
+"Ixv-1e-Ert.title" = "Pending Job";
+
+/* Class = "UILabel"; text = "Jobs : "; ObjectID = "Je4-pC-nrD"; */
+"Je4-pC-nrD.text" = "Jobs : ";
+
+/* Class = "UILabel"; text = "Job Detail"; ObjectID = "KGr-8B-uxt"; */
+"KGr-8B-uxt.text" = "Job Detail";
+
+/* Class = "UINavigationItem"; title = " Social"; ObjectID = "Kfh-pY-zRA"; */
+"Kfh-pY-zRA.title" = " Social";
+
+/* Class = "UILabel"; text = "EGP"; ObjectID = "KkF-Il-aWX"; */
+"KkF-Il-aWX.text" = "EGP";
+
+/* Class = "UITextField"; placeholder = "Add Attatched file name"; ObjectID = "KxZ-JR-BRD"; */
+"KxZ-JR-BRD.placeholder" = "Add Attatched file name";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "L1H-Wn-pXg"; */
+"L1H-Wn-pXg.normalTitle" = "Logout";
+
+/* Class = "UIButton"; normalTitle = "Add location"; ObjectID = "LMY-CG-x1q"; */
+"LMY-CG-x1q.normalTitle" = "Add location";
+
+/* Class = "UIButton"; normalTitle = "Social"; ObjectID = "Ljo-BR-PQ3"; */
+"Ljo-BR-PQ3.normalTitle" = "Social";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "LrQ-ic-kuM"; */
+"LrQ-ic-kuM.title" = "Item";
+
+/* Class = "UILabel"; text = "Job Information"; ObjectID = "MN9-Au-QR9"; */
+"MN9-Au-QR9.text" = "Job Information";
+
+/* Class = "UILabel"; text = "Add Photo"; ObjectID = "MyH-xz-5hB"; */
+"MyH-xz-5hB.text" = "Add Photo";
+
+/* Class = "UITextField"; placeholder = "Company name"; ObjectID = "MzJ-Xs-SUZ"; */
+"MzJ-Xs-SUZ.placeholder" = "Company name";
+
+/* Class = "UIButton"; normalTitle = "Country"; ObjectID = "NCi-EM-OdN"; */
+"NCi-EM-OdN.normalTitle" = "Country";
+
+/* Class = "UILabel"; text = "Website"; ObjectID = "NSk-Vk-7mB"; */
+"NSk-Vk-7mB.text" = "Website";
+
+/* Class = "UILabel"; text = "E-mail : "; ObjectID = "Naa-oA-RAk"; */
+"Naa-oA-RAk.text" = "E-mail : ";
+
+/* Class = "UITextField"; placeholder = "0"; ObjectID = "O0M-Jz-2f5"; */
+"O0M-Jz-2f5.placeholder" = "0";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "ORZ-ZT-lr7"; */
+"ORZ-ZT-lr7.normalTitle" = "English";
+
+/* Class = "UILabel"; text = "Expected working hours"; ObjectID = "Oh1-59-wRB"; */
+"Oh1-59-wRB.text" = "Expected working hours";
+
+/* Class = "UILabel"; text = "Data Input "; ObjectID = "PZq-5f-dxv"; */
+"PZq-5f-dxv.text" = "Data Input ";
+
+/* Class = "UIButton"; normalTitle = "Previous jobs"; ObjectID = "Q2b-xS-APG"; */
+"Q2b-xS-APG.normalTitle" = "Previous jobs";
+
+/* Class = "UITextField"; placeholder = "Title"; ObjectID = "QUH-75-VER"; */
+"QUH-75-VER.placeholder" = "Title";
+
+/* Class = "UILabel"; text = "Job Break"; ObjectID = "Rhk-9F-6vV"; */
+"Rhk-9F-6vV.text" = "Job Break";
+
+/* Class = "UILabel"; text = "Phone :"; ObjectID = "S6d-dC-Xdy"; */
+"S6d-dC-Xdy.text" = "Phone :";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "SAf-po-fKK"; */
+"SAf-po-fKK.text" = "Country";
+
+/* Class = "UILabel"; text = "Facebook"; ObjectID = "Si0-xq-j8D"; */
+"Si0-xq-j8D.text" = "Facebook";
+
+/* Class = "UILabel"; text = "Postal Code"; ObjectID = "TMW-Tb-F8s"; */
+"TMW-Tb-F8s.text" = "Postal Code";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "TXL-sn-GDP"; */
+"TXL-sn-GDP.title" = "Item";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "UMf-Gs-wHc"; */
+"UMf-Gs-wHc.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "Add jobs"; ObjectID = "Ukh-gT-4Az"; */
+"Ukh-gT-4Az.normalTitle" = "Add jobs";
+
+/* Class = "UITextField"; placeholder = "Middle name"; ObjectID = "Ur0-3Z-cF2"; */
+"Ur0-3Z-cF2.placeholder" = "Middle name";
+
+/* Class = "UILabel"; text = "Job Detail"; ObjectID = "VSG-Ii-WnM"; */
+"VSG-Ii-WnM.text" = "Job Detail";
+
+/* Class = "UIButton"; normalTitle = "Documents"; ObjectID = "Vje-Kb-1uw"; */
+"Vje-Kb-1uw.normalTitle" = "Documents";
+
+/* Class = "UINavigationItem"; title = "Contact US"; ObjectID = "W4I-VU-HmF"; */
+"W4I-VU-HmF.title" = "Contact US";
+
+/* Class = "UITextField"; placeholder = "Email or Phone"; ObjectID = "WFo-Yj-qS9"; */
+"WFo-Yj-qS9.placeholder" = "Email or Phone";
+
+/* Class = "UINavigationItem"; title = "Emergency notice\n"; ObjectID = "Wgv-Sg-Y3t"; */
+"Wgv-Sg-Y3t.title" = "Emergency notice\n";
+
+/* Class = "UIButton"; normalTitle = "Cancel job "; ObjectID = "XgA-Mg-VEG"; */
+"XgA-Mg-VEG.normalTitle" = "Cancel job ";
+
+/* Class = "UINavigationItem"; title = "Address"; ObjectID = "XgO-YV-0HP"; */
+"XgO-YV-0HP.title" = "Address";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "XqW-tJ-Kff"; */
+"XqW-tJ-Kff.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "About"; ObjectID = "Y3T-Xy-aeH"; */
+"Y3T-Xy-aeH.normalTitle" = "About";
+
+/* Class = "UILabel"; text = "Reason :"; ObjectID = "aSF-B6-OKf"; */
+"aSF-B6-OKf.text" = "Reason :";
+
+/* Class = "UILabel"; text = "Add an emergency file"; ObjectID = "aXF-rd-I9c"; */
+"aXF-rd-I9c.text" = "Add an emergency file";
+
+/* Class = "UITextField"; placeholder = "Postal code"; ObjectID = "bE6-2z-uP2"; */
+"bE6-2z-uP2.placeholder" = "Postal code";
+
+/* Class = "UILabel"; text = "Data Input "; ObjectID = "bKh-f7-eIj"; */
+"bKh-f7-eIj.text" = "Data Input ";
+
+/* Class = "UITextField"; placeholder = "Old password"; ObjectID = "bO9-Xe-ldT"; */
+"bO9-Xe-ldT.placeholder" = "Old password";
+
+/* Class = "UINavigationItem"; title = "Setting"; ObjectID = "bdi-63-TKW"; */
+"bdi-63-TKW.title" = "Setting";
+
+/* Class = "UILabel"; text = "Arabic"; ObjectID = "bf6-0p-z56"; */
+"bf6-0p-z56.text" = "Arabic";
+
+/* Class = "UIButton"; normalTitle = "Create account"; ObjectID = "cMU-2c-oA2"; */
+"cMU-2c-oA2.normalTitle" = "Create account";
+
+/* Class = "UITextField"; placeholder = "Confirm password"; ObjectID = "cXT-QW-9sg"; */
+"cXT-QW-9sg.placeholder" = "Confirm password";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "cdU-zM-las"; */
+"cdU-zM-las.text" = "Profile";
+
+/* Class = "UIButton"; normalTitle = "Previous work"; ObjectID = "cvS-u6-KZD"; */
+"cvS-u6-KZD.normalTitle" = "Previous work";
+
+/* Class = "UILabel"; text = "Data Input "; ObjectID = "d75-nQ-fzY"; */
+"d75-nQ-fzY.text" = "Data Input ";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "d8K-6d-nW8"; */
+"d8K-6d-nW8.title" = "Item";
+
+/* Class = "UILabel"; text = "Job Information"; ObjectID = "dFe-rL-T0l"; */
+"dFe-rL-T0l.text" = "Job Information";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "dKR-et-zex"; */
+"dKR-et-zex.title" = "Item";
+
+/* Class = "UILabel"; text = "+201150291914"; ObjectID = "den-If-tAc"; */
+"den-If-tAc.text" = "+201150291914";
+
+/* Class = "UITextField"; placeholder = "E-mail "; ObjectID = "dlL-mU-cXu"; */
+"dlL-mU-cXu.placeholder" = "E-mail ";
+
+/* Class = "UIButton"; normalTitle = "Basic info"; ObjectID = "dmR-ks-lna"; */
+"dmR-ks-lna.normalTitle" = "Basic info";
+
+/* Class = "UIButton"; normalTitle = "Category"; ObjectID = "dnb-2H-bbt"; */
+"dnb-2H-bbt.normalTitle" = "Category";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "duE-ov-hYb"; */
+"duE-ov-hYb.placeholder" = "Password";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "eEe-Sn-Xo9"; */
+"eEe-Sn-Xo9.title" = "Item";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "eKt-iT-OsD"; */
+"eKt-iT-OsD.text" = "Profile";
+
+/* Class = "UILabel"; text = "Instgram"; ObjectID = "eYt-Eb-aNR"; */
+"eYt-Eb-aNR.text" = "Instgram";
+
+/* Class = "UIButton"; normalTitle = "Company Photos"; ObjectID = "eyX-x2-rNx"; */
+"eyX-x2-rNx.normalTitle" = "Company Photos";
+
+/* Class = "UIButton"; normalTitle = "Add time frame"; ObjectID = "fYM-cz-tXL"; */
+"fYM-cz-tXL.normalTitle" = "Add time frame";
+
+/* Class = "UILabel"; text = "eslam@gmail.com"; ObjectID = "g2S-uk-pDs"; */
+"g2S-uk-pDs.text" = "eslam@gmail.com";
+
+/* Class = "UITextField"; placeholder = "Your link here"; ObjectID = "gU3-V0-oHB"; */
+"gU3-V0-oHB.placeholder" = "Your link here";
+
+/* Class = "UIButton"; normalTitle = "Emergency notice\n"; ObjectID = "gXS-Jc-Fes"; */
+"gXS-Jc-Fes.normalTitle" = "Emergency notice\n";
+
+/* Class = "UILabel"; text = "Gallery"; ObjectID = "gg2-MR-Ifo"; */
+"gg2-MR-Ifo.text" = "Gallery";
+
+/* Class = "UINavigationItem"; title = "Add New Job"; ObjectID = "ghp-G8-RtA"; */
+"ghp-G8-RtA.title" = "Add New Job";
+
+/* Class = "UILabel"; text = "Linkedin"; ObjectID = "hB3-nr-cg6"; */
+"hB3-nr-cg6.text" = "Linkedin";
+
+/* Class = "UITextField"; placeholder = "100"; ObjectID = "hCA-mD-6ax"; */
+"hCA-mD-6ax.placeholder" = "100";
+
+/* Class = "UITextView"; text = "Desc"; ObjectID = "hDp-na-7yp"; */
+"hDp-na-7yp.text" = "Desc";
+
+/* Class = "UITextField"; placeholder = "Your link here"; ObjectID = "hiT-Vu-C0t"; */
+"hiT-Vu-C0t.placeholder" = "Your link here";
+
+/* Class = "UILabel"; text = "Previous Workes ( 20 )"; ObjectID = "hnR-dY-2ue"; */
+"hnR-dY-2ue.text" = "Previous Workes ( 20 )";
+
+/* Class = "UILabel"; text = "Egypt - Giza"; ObjectID = "irP-Z6-pav"; */
+"irP-Z6-pav.text" = "Egypt - Giza";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "ius-XZ-CDv"; */
+"ius-XZ-CDv.title" = "Item";
+
+/* Class = "UILabel"; text = "We just need your registered e-mail\nto send your password reset instruction "; ObjectID = "jGP-Xk-a2q"; */
+"jGP-Xk-a2q.text" = "We just need your registered e-mail\nto send your password reset instruction ";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "ja3-Fw-m88"; */
+"ja3-Fw-m88.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "joV-z3-gP0"; */
+"joV-z3-gP0.text" = "City";
+
+/* Class = "UIButton"; normalTitle = "Reset Password"; ObjectID = "k0f-AP-Ouu"; */
+"k0f-AP-Ouu.normalTitle" = "Reset Password";
+
+/* Class = "UITextField"; placeholder = "Street number"; ObjectID = "k5E-Ko-9kL"; */
+"k5E-Ko-9kL.placeholder" = "Street number";
+
+/* Class = "UIButton"; normalTitle = "Register as a client"; ObjectID = "kDd-zi-F4x"; */
+"kDd-zi-F4x.normalTitle" = "Register as a client";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "kIN-ZT-mB7"; */
+"kIN-ZT-mB7.normalTitle" = "Logout";
+
+/* Class = "UIButton"; normalTitle = "Change password"; ObjectID = "lKH-Tc-ygN"; */
+"lKH-Tc-ygN.normalTitle" = "Change password";
+
+/* Class = "UIButton"; normalTitle = "Profile"; ObjectID = "lOW-cU-mUf"; */
+"lOW-cU-mUf.normalTitle" = "Profile";
+
+/* Class = "UITextField"; placeholder = "Phone"; ObjectID = "ndV-6O-PV7"; */
+"ndV-6O-PV7.placeholder" = "Phone";
+
+/* Class = "UINavigationItem"; title = "Add New Job"; ObjectID = "nmS-t1-xGW"; */
+"nmS-t1-xGW.title" = "Add New Job";
+
+/* Class = "UILabel"; text = "Job price"; ObjectID = "nua-0G-lbV"; */
+"nua-0G-lbV.text" = "Job price";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "onx-dz-qVO"; */
+"onx-dz-qVO.normalTitle" = "Save";
+
+/* Class = "UIButton"; normalTitle = "Visibility"; ObjectID = "p0C-0e-dlL"; */
+"p0C-0e-dlL.normalTitle" = "Visibility";
+
+/* Class = "UITextField"; placeholder = "Your link here"; ObjectID = "p74-mV-7vn"; */
+"p74-mV-7vn.placeholder" = "Your link here";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "q5e-NI-OHa"; */
+"q5e-NI-OHa.title" = "Item";
+
+/* Class = "UINavigationItem"; title = "Applications"; ObjectID = "qDS-xk-27h"; */
+"qDS-xk-27h.title" = "Applications";
+
+/* Class = "UITextField"; placeholder = "Confirm password"; ObjectID = "qVD-VT-aIb"; */
+"qVD-VT-aIb.placeholder" = "Confirm password";
+
+/* Class = "UIButton"; normalTitle = "Remove location"; ObjectID = "qhO-KB-0yD"; */
+"qhO-KB-0yD.normalTitle" = "Remove location";
+
+/* Class = "UILabel"; text = "Job Detail"; ObjectID = "qkV-FC-CSN"; */
+"qkV-FC-CSN.text" = "Job Detail";
+
+/* Class = "UILabel"; text = "Job Time"; ObjectID = "qo1-J8-dXQ"; */
+"qo1-J8-dXQ.text" = "Job Time";
+
+/* Class = "UILabel"; text = "Rate : "; ObjectID = "r43-Oo-DtE"; */
+"r43-Oo-DtE.text" = "Rate : ";
+
+/* Class = "UITextField"; placeholder = "E-mail "; ObjectID = "r6B-U7-gjg"; */
+"r6B-U7-gjg.placeholder" = "E-mail ";
+
+/* Class = "UITextField"; placeholder = "Your link here"; ObjectID = "rMI-2E-vCd"; */
+"rMI-2E-vCd.placeholder" = "Your link here";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "rVB-7i-lOF"; */
+"rVB-7i-lOF.normalTitle" = "Next";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "rah-jy-t5o"; */
+"rah-jy-t5o.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "rnL-ny-2gj"; */
+"rnL-ny-2gj.text" = "Login";
+
+/* Class = "UITextField"; placeholder = "First name"; ObjectID = "sRt-R5-jYS"; */
+"sRt-R5-jYS.placeholder" = "First name";
+
+/* Class = "UILabel"; text = "Company Info"; ObjectID = "seh-rC-0JS"; */
+"seh-rC-0JS.text" = "Company Info";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "st8-7S-XHH"; */
+"st8-7S-XHH.title" = "Item";
+
+/* Class = "UITextField"; text = "Tue, Jul 7,2020"; ObjectID = "sur-XB-UT7"; */
+"sur-XB-UT7.text" = "Tue, Jul 7,2020";
+
+/* Class = "UILabel"; text = "If the work is canceled 48 hours before, 20% will be deducted."; ObjectID = "t7n-wn-AbH"; */
+"t7n-wn-AbH.text" = "If the work is canceled 48 hours before, 20% will be deducted.";
+
+/* Class = "UIButton"; normalTitle = "Remove location"; ObjectID = "tZr-R9-WY0"; */
+"tZr-R9-WY0.normalTitle" = "Remove location";
+
+/* Class = "UIButton"; normalTitle = "Setting"; ObjectID = "tcI-j8-Ner"; */
+"tcI-j8-Ner.normalTitle" = "Setting";
+
+/* Class = "UILabel"; text = "Twitter"; ObjectID = "tfB-QL-QA3"; */
+"tfB-QL-QA3.text" = "Twitter";
+
+/* Class = "UIButton"; normalTitle = "Change language"; ObjectID = "tl7-rm-NPf"; */
+"tl7-rm-NPf.normalTitle" = "Change language";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "tvN-rm-vAH"; */
+"tvN-rm-vAH.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "Jobs applications"; ObjectID = "uS5-ii-bVo"; */
+"uS5-ii-bVo.normalTitle" = "Jobs applications";
+
+/* Class = "UIButton"; normalTitle = "Paid"; ObjectID = "uTS-JB-bas"; */
+"uTS-JB-bas.normalTitle" = "Paid";
+
+/* Class = "UINavigationItem"; title = "Documents"; ObjectID = "uWf-Wo-Fik"; */
+"uWf-Wo-Fik.title" = "Documents";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "ujK-7R-3HN"; */
+"ujK-7R-3HN.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Gallery"; ObjectID = "v6K-Xf-0vg"; */
+"v6K-Xf-0vg.normalTitle" = "Gallery";
+
+/* Class = "UILabel"; text = "Other"; ObjectID = "vYd-Es-cLC"; */
+"vYd-Es-cLC.text" = "Other";
+
+/* Class = "UITextField"; placeholder = "Your link here"; ObjectID = "vuc-eh-b5k"; */
+"vuc-eh-b5k.placeholder" = "Your link here";
+
+/* Class = "UIButton"; normalTitle = "العربيه"; ObjectID = "wKc-5w-bm4"; */
+"wKc-5w-bm4.normalTitle" = "العربيه";
+
+/* Class = "UILabel"; text = "Landline : "; ObjectID = "wcu-h3-pBl"; */
+"wcu-h3-pBl.text" = "Landline : ";
+
+/* Class = "UINavigationItem"; title = "Gallery"; ObjectID = "wqm-ep-8mH"; */
+"wqm-ep-8mH.title" = "Gallery";
+
+/* Class = "UILabel"; text = "Workers number"; ObjectID = "xYv-D3-TsN"; */
+"xYv-D3-TsN.text" = "Workers number";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "xyb-f9-1hq"; */
+"xyb-f9-1hq.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "If the work is canceled 48 hours before, 20% will be deducted."; ObjectID = "yKv-uN-en9"; */
+"yKv-uN-en9.text" = "If the work is canceled 48 hours before, 20% will be deducted.";
+
+/* Class = "UITextField"; placeholder = "Date of birth"; ObjectID = "yZm-Bm-7e5"; */
+"yZm-Bm-7e5.placeholder" = "Date of birth";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "yhL-AI-To0"; */
+"yhL-AI-To0.title" = "Item";
+
+/* Class = "UILabel"; text = "Hot line :"; ObjectID = "zT5-LN-HuU"; */
+"zT5-LN-HuU.text" = "Hot line :";
+
+/* Class = "UILabel"; text = "Phone : "; ObjectID = "zmP-Mu-qIM"; */
+"zmP-Mu-qIM.text" = "Phone : ";
+
+/* Class = "UILabel"; text = "+201150291914"; ObjectID = "zpA-pn-060"; */
+"zpA-pn-060.text" = "+201150291914";
+
+/* Class = "UITextField"; placeholder = "New password"; ObjectID = "zpk-bT-Sqy"; */
+"zpk-bT-Sqy.placeholder" = "New password";
